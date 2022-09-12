@@ -2,6 +2,8 @@
 
 > Status do progeto: Em desenvolvimento
 
+Para rodar esse programa por favor digite:
+
 ```
 npm install react
 ```
